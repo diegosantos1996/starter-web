@@ -21,6 +21,7 @@ YAAAHOOOO
 
 ## How to Contribute
 
+Please fork this repository
 
 ### Copyright
 
