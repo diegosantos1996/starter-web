@@ -20,3 +20,8 @@ Yezir
 YAAAHOOOO 
 
 ## How to Contribute
+
+
+### Copyright
+
+Git.Training 2021
