@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Diego Santos email@gmail.com
 
 # THANKS
 
